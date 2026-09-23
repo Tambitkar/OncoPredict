@@ -111,6 +111,4 @@ The application will open in your browser.
 
 This project is intended for **educational and demonstration purposes only**. It is not a medical diagnostic system and should not be used as a substitute for professional medical advice or clinical diagnosis.
 
-## Author
 
-Developed as a Machine Learning and Data Science project.
